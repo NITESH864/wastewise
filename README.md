@@ -4,7 +4,7 @@
 
 ![WasteWise](https://img.shields.io/badge/AI-Claude%20Sonnet-green?style=flat-square) ![HTML](https://img.shields.io/badge/Stack-HTML%20%2F%20CSS%20%2F%20JS-blue?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square) ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
 
-**Live demo:** [your-username.github.io/wastewise](https://your-username.github.io/wastewise)
+**Live demo:** [your-username.github.io/wastewise](https://NITESH864.github.io/wastewise)
 
 ---
 
